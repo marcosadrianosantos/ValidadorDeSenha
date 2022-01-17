@@ -1,0 +1,12 @@
+D:\Teste-Interplayers\ValidacaoDeSenha\ValidacaoDeSenhaIoC\bin\Debug\netcoreapp3.1\ValidacaoDeSenha.IoC.deps.json
+D:\Teste-Interplayers\ValidacaoDeSenha\ValidacaoDeSenhaIoC\bin\Debug\netcoreapp3.1\ValidacaoDeSenha.IoC.dll
+D:\Teste-Interplayers\ValidacaoDeSenha\ValidacaoDeSenhaIoC\bin\Debug\netcoreapp3.1\ValidacaoDeSenha.IoC.pdb
+D:\Teste-Interplayers\ValidacaoDeSenha\ValidacaoDeSenhaIoC\bin\Debug\netcoreapp3.1\ValidacaoDeSenha.Application.dll
+D:\Teste-Interplayers\ValidacaoDeSenha\ValidacaoDeSenhaIoC\bin\Debug\netcoreapp3.1\ValidacaoDeSenha.Application.pdb
+D:\Teste-Interplayers\ValidacaoDeSenha\ValidacaoDeSenhaIoC\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.IoC.csprojAssemblyReference.cache
+D:\Teste-Interplayers\ValidacaoDeSenha\ValidacaoDeSenhaIoC\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.IoC.AssemblyInfoInputs.cache
+D:\Teste-Interplayers\ValidacaoDeSenha\ValidacaoDeSenhaIoC\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.IoC.AssemblyInfo.cs
+D:\Teste-Interplayers\ValidacaoDeSenha\ValidacaoDeSenhaIoC\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.IoC.csproj.CoreCompileInputs.cache
+D:\Teste-Interplayers\ValidacaoDeSenha\ValidacaoDeSenhaIoC\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.IoC.csproj.CopyComplete
+D:\Teste-Interplayers\ValidacaoDeSenha\ValidacaoDeSenhaIoC\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.IoC.dll
+D:\Teste-Interplayers\ValidacaoDeSenha\ValidacaoDeSenhaIoC\obj\Debug\netcoreapp3.1\ValidacaoDeSenha.IoC.pdb

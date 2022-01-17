@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3dco4A/t84kfi3oi1sK/yUqgyu1d2Rm0Id4MgPq6mSbMAX9R0cOLyh6WQrr8eonIXCf/79DpHPqu78QADASniQ==",
+  "success": true,
+  "projectFilePath": "D:\\Teste-Interplayers\\ValidacaoDeSenha\\ValidacaoDeSenha\\ValidacaoDeSenha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcos Santos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Marcos Santos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
